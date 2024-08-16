@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1723448465 source:c:\users\mahmoud\desktop\seif\batcher\main.c
+	<stdio.h>
+	"SDBAPP.c"
+
+1723448489 c:\users\mahmoud\desktop\seif\batcher\sdbapp.c
+	<stdio.h>
+	"SDB.h"
+	"STD.h"
+
+1723448461 c:\users\mahmoud\desktop\seif\batcher\sdb.h
+	"STD.h"
+
+1723448422 c:\users\mahmoud\desktop\seif\batcher\std.h
+
+1723448389 source:c:\users\mahmoud\desktop\seif\batcher\sdb.c
+	<stdio.h>
+	"SDB.h"
+	"STD.h"
+
+1723448489 source:c:\users\mahmoud\desktop\seif\batcher\sdbapp.c
+	<stdio.h>
+	"SDB.h"
+	"STD.h"
+
